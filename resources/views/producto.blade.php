@@ -1,4 +1,4 @@
-Datos del producto:
+Datos del producto
 
 <table>
     <tr>
